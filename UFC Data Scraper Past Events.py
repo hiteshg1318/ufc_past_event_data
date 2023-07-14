@@ -86,34 +86,3 @@ for url in arr_links:
 
 
 df.to_excel('C:/Users/hites/OneDrive/Desktop/UFCData.xlsx')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
